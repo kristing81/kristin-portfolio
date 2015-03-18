@@ -2,8 +2,8 @@
 
 title:            Kristin Gonzalez
 locale:           en_US
-url:              
-baseurl:          kristin_portfolio
+url:              /kristin_portfolio
+baseurl:          
 
 # Jekyll configuration
 
