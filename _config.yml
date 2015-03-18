@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Kristin Gonzalez
 locale:           en_US
 url:              
 
@@ -28,14 +28,12 @@ kramdown:
 owner:
   name: Kristin Gonzalez
   avatar: bio-photo.jpg
-  bio: "Ruby on Rails Developer."
+  bio: "Ruby on Rails Developer"
   email: kristingonzalez81@gmail.com
-  disqus-shortname: 
   twitter: kgonzalez81  
-  bing-verify: 
   github: kristing81
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: kristingonzalez
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

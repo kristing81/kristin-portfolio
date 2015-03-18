@@ -1,0 +1,4 @@
+.photo {
+    max-width: 110px;
+    @include rounded(150px);
+  }

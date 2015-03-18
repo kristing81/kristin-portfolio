@@ -312,6 +312,7 @@ $button-size: 1.5rem;
 		width: 100%;
 		height: auto;
 		-ms-interpolation-mode: bicubic;
+		height: 230px;
 	}
 	.headline-wrap {
 		position: absolute;
@@ -404,7 +405,7 @@ $button-size: 1.5rem;
 		.bio-photo,
 		p,
 		.author-social {
-			max-width: 150px;
+			max-width: 190px;
 		}
 	}
 	@media #{$x-large} {
@@ -729,4 +730,13 @@ $button-size: 1.5rem;
 }
 #goog-wm-sb {
 	@extend .btn;
+}
+
+img.photo {
+    max-width: 550px;
+    @include rounded(50px);
+  }
+
+a {
+	
 }
